@@ -2,4 +2,4 @@
 ## Desenvolvido por 
 ### estudante Alexandra :smiley:
 ** áreas afins: **
-### site desenvolvido em HTMNL E CSS
+### site desenvolvido em HTML E CSS
